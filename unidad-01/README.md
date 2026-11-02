@@ -29,3 +29,6 @@ Elegir una metodología para desarrollar una aplicación de biblioteca.
 3. Proponer un backlog inicial de cinco tareas ordenadas por prioridad.
 ## Revisión desde GitHub
 La metodología elegida influye en la planificación, la colaboración y las entregas.
+
+## Seguimiento del equipo 2
+Revisión realizada desde la segunda copia local.
