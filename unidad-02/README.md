@@ -22,3 +22,6 @@ Configurar un proyecto Java e iniciar un programa HolaMundo.
 - Relación entre JDK, compilador y JVM.
 - Ruta del proyecto y directorio de trabajo.
 - Diferencias entre ejecutar desde el IDE y desde la terminal.
+
+## Revisión desde GitHub
+Un entorno correctamente configurado facilita compilar, ejecutar y depurar aplicaciones.
