@@ -10,7 +10,7 @@ IntelliJ IDEA, Git, GitHub, JDK y Markdown.
 
 ## Autor
 
-**Tu nombre y apellidos**.
+**Besay López Hernández**.
 
 ## Índice
 Las unidades se añadirán una a una.
